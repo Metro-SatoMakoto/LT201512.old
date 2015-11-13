@@ -19,11 +19,14 @@ http://metro-satomakoto.github.io/LT201512/
 
 
 - ネタ:  
+  - markdown
 	- github pages
 		- jekyll
 		- ブログにできる
 		- プロジェクトデモページ作れる
+    - そのままプレゼン風にできる reveal.js
 	- gist
+  - wiki
 	- PullReq駆動
 	- 外部ツール
 		- issueをカンバン化
