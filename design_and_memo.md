@@ -18,30 +18,33 @@ http://metro-satomakoto.github.io/LT201512/
 (３：未)何を持ち帰ってほしいのか？
 
 
-- ネタ:  
-  - markdown
-	- github pages
-		- jekyll
-		- ブログにできる
-		- プロジェクトデモページ作れる
-    - そのままプレゼン風にできる reveal.js
-	- gist
-  - wiki
-	- PullReq駆動
-	- 外部ツール
-		- issueをカンバン化
-			- trello
-			- zenhub
-		- CIツール
-			- travis ci
-				- ビルド通ったアイコン出る
-			- circle ci
-		- チャットツール
-			- slack
-			- hipchat
-    - Online IDE
-      - cloud9
-      - koding
+ネタ
+* markdown  
+  ドキュメント類は全部markdownで。  
+  テキストなのでgitでなくてもvcsと相性よし。  
+  リアルタイムレンダリングできるエディター多数(例:atom)  
+* github pages
+  * ブログにできる
+  * プロジェクトデモページ作れる
+  * そのままプレゼン風にできる
+* gist
+* wiki
+* PullReq駆動
+* エコシステム、外部ツール
+  * jekyll, reveal.js github pagesを便利に使える
+  * issueをカンバン化
+    * trello
+    * zenhub
+  * CIツール
+	  * travis ci
+	    * ビルド通ったアイコン出る
+	  * circle ci
+  * チャットツール
+    * slack
+    * hipchat
+  * Online IDE
+    * cloud9
+    * koding
 
 
 
